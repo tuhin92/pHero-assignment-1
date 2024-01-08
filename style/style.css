@@ -1,0 +1,107 @@
+/* Banner section start */
+.first-banner-container{
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../images/Banner\ Image.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    margin: 50px 250px;
+}
+.first-banner{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    padding: 150px 344px;
+}
+.banner-description{
+    font-weight: 900;
+    font-size: 72px;
+}
+.banner-title{
+    font-size: 32px;
+}
+/* second banner style */
+.discount{
+    color: #f00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+.mini-title{
+    color: #f00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.title{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+.second-banner-container{
+    position: relative;
+    text-align: center;
+}
+.banner-image{
+    width: 802.9px;
+    height: 500px;
+}
+
+/* Third banner style */
+.third-banner-container{
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../images/Vectorrr.png);
+    background-size: contain;
+    border-radius: 16px;
+    margin: 50px 250px;
+    width: 1320px;
+    height: 600px;
+    gap: 24px;
+    position: relative;
+}
+.year-2024{
+    position: absolute;
+    width: 319.83px;
+    height: 400px;
+    top: 60px;
+    right: 95px
+}
+.third-banneer{
+    text-align: center;
+    font-family: Merriweather;
+    padding: 126px 552px 258px 126px;
+}
+.third-banner-title{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    text-align: left;
+}
+.third-banneer-description{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: left;
+}
+.join-btn{
+    color: #FFF;
+    background: transparent;
+    border: none;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: block;
+}
+.join-btn:hover{
+    color: aqua;
+}
