@@ -101,13 +101,55 @@
     font-weight: 700;
     text-transform: uppercase;
     display: block;
+    cursor: pointer;
 }
 .join-btn:hover{
     color: aqua;
 }
 /* Main part  */
-/* Portfolioo part  */
+/* Party time and place part  */
+.party-time{
+    width: 1320px;
+    height: 600px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin: 50px 250px;
+    border-radius: 16px;
+}
+.party-time-information{
+    margin: 0 320px;
+    padding-top: 100px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+.s-color{
+    color: #F00;
+}
+.join-now{
+    margin: 40px 550px;
+    display: inline-flex;
+    padding: 16px 32px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.join-now:hover{
+    background: rgb(103, 223, 183);
+    box-shadow: 0 0 5px 0 rgba(0, 0, 255, 0.5);
+}
 
+/* Portfolioo part  */
 .portfolio-container{
    
     margin: 10px 250px;
