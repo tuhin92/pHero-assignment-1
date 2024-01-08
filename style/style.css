@@ -149,6 +149,83 @@
     box-shadow: 0 0 5px 0 rgba(0, 0, 255, 0.5);
 }
 
+.coming-soon-banner{
+    margin: 40px 245px;
+    width: 1320px;
+    height: 500px;
+    border-radius: 16px;
+    background: #e3e5e6;
+    display: flex;
+    justify-content: space-between;
+}
+.row-1{
+    display: block;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.row-2{
+    display: block;
+    margin-right: 10px;
+    margin-top: 50px;
+}
+.best-offer{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+}
+.coming-soon-title{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-top: -20px;
+}
+.new-year-description{
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: -35px;
+}
+.round-image{
+    height: 92%;
+    width: 92%;
+    margin: 15px 15px;
+}
+.round-image-conatainer{
+    width: 463px;
+    height: 463px;
+    border-radius: 463px;
+    border: 15px solid #F00;
+    margin-left: -50px;
+}
+.y-2024{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+.new-year-description-2{
+    width: 276px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: -35px;
+}
+.newYear-image{
+    width: 140px;
+    height: 140px;
+}
+
 /* Portfolioo part  */
 .portfolio-container{
    
